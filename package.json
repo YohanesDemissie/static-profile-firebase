@@ -1,0 +1,19 @@
+{
+  "name": "static-profile-firebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.htnl",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YohanesDemissie/static-profile-firebase.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YohanesDemissie/static-profile-firebase/issues"
+  },
+  "homepage": "https://github.com/YohanesDemissie/static-profile-firebase#readme"
+}
